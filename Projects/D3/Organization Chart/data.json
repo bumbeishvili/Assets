@@ -1,0 +1,245 @@
+{
+  "name": "Ian Devling",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+  "area": "Corporate",
+  "profileUrl": "'example.com",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
+  "isLoggedUser": false,
+  "positionName": "Cheaf Executive Officer ",
+  "children": [{
+    "name": "Davolio Nancy",
+    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+    "area": "Corporate",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CTO ",
+    "children": [{
+      "name": "Fuller Andrew",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Linear Manager"
+    }, {
+      "name": "Peacock Margaret",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "CEO"
+    }, {
+      "name": "Buchanan Steven",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Head of direction"
+    }, {
+      "name": "Suyama Michael",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": true,
+      "positionName": "Senior sales manager"
+    }, {
+      "name": "King Robert",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Senior Sales Manager",
+      "children": [{
+        "name": "Callahan Laura",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior sales manager"
+      }, {
+        "name": "Dodsworth Anne",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior sales manager"
+      }]
+    }, {
+      "name": "West Adam",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "CTO"
+    }, {
+      "name": "Charlotte Cooper",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Senior Trader",
+      "children": [{
+        "name": "Shelley Burke",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Intern"
+      }]
+    }, {
+      "name": "Yoshi Nagase",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Head of laboratory",
+      "children": [{
+        "name": "Valle Saavedra",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior Inovator"
+      }, {
+        "name": "Regina Murphy",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Developer"
+      }, {
+        "name": "Mayumi Ohno",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Senior developer"
+      }, {
+        "name": "SizePalette",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "System analyst"
+      }]
+    }]
+  }, {
+    "name": " Leverling Janet",
+    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+    "area": "Corporate",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CTO ",
+    "children": [{
+      "name": "Peter Wilson",
+      "isLoggedUser": false,
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "positionName": "Head of channels",
+      "children": [{
+        "name": " Lars Peterson",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Anakyst Developer"
+      }]
+    }, {
+      "name": "Carlos Diaz",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Senior Android Developer",
+      "children": [{
+        "name": " Petra Winkler",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Android Developer"
+      }, {
+        "name": "Martin Bein",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Ios Developer",
+        "size": 2023
+      }]
+    }, {
+      "name": "Sven Petersen",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Senior Developer",
+      "children": [{
+        "name": "Current User",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Web Developer"
+      }, {
+        "name": "Beate Vileid",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior Developer"
+      }]
+    }]
+  }]
+}
