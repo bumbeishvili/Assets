@@ -1,5 +1,5 @@
 
-mapkey('<Ctrl-E>', '', function() {
+mapkey('<Ctrl-e>', '', function() {
     var selectors = ['button', 'input', 'textarea', 'select', 'li', 'a', 'fieldset', 'div', 'img'];
     selectors.forEach(function (selector) {
       var elems =  Array.prototype.slice.call(document.getElementsByTagName(selector));
