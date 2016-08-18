@@ -1,0 +1,12 @@
+
+mapkey('<Ctrl-E>', '', function() {
+    var selectors = ['button', 'input', 'textarea', 'select', 'li', 'a', 'fieldset', 'div', 'img'];
+    selectors.forEach(function (selector) {
+      var elems =  Array.prototype.slice.call(document.getElementsByTagName(selector));
+      elems.forEach(function enable(el) {
+          el.disabled = false;
+          el.classList.remove("disabled");
+          el.readOnly = false;
+        });
+     });
+});
