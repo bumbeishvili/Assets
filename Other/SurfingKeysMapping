@@ -1,4 +1,5 @@
 
+// enable all disabled fields
 mapkey('<Ctrl-e>', '', function() {
     var selectors = ['button', 'input', 'textarea', 'select', 'li', 'a', 'fieldset', 'div', 'img'];
     selectors.forEach(function (selector) {
@@ -10,3 +11,6 @@ mapkey('<Ctrl-e>', '', function() {
         });
      });
 });
+
+
+iunmap('<'); // to remove Ctrl-i mapping in insert mode
