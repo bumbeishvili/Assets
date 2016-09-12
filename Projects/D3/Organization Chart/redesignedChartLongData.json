@@ -36,7 +36,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": " Finance Department"
+            "value": " Finance Department",
+            "desc":"Finance Dept description"
           },
           "positionName": "CTO ",
           "children": [
@@ -6347,7 +6348,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Marketing Department"
+            "value": "Marketing Department",
+            "desc":"Marketing Department Description"
           },
           "positionName": "Linear Manager",
           "children": [
@@ -8695,7 +8697,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "HR Department"
+            "value": "HR Department",
+            "desc":"HR Department Description"
           },
           "positionName": "CEO",
           "children": [
@@ -9062,7 +9065,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Facility Management"
+            "value": "Facility Management",
+            "desc":"Facility Dept description"
           },
           "positionName": "Head of direction",
           "children": [
@@ -11073,7 +11077,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "IT Consulting"
+            "value": "IT Consulting",
+            "desc":"Consulting Department Description"
           },
           "positionName": "Senior sales manager"
         },
@@ -11087,7 +11092,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Customer Service"
+            "value": "Customer Service",
+            "desc":"Customer Service Department Description"
           },
           "positionName": "Senior Sales Manager",
           "children": [
@@ -11484,7 +11490,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Delivery Department"
+            "value": "Delivery Department",
+            "desc":"Delivery Department Description"
           },
           "positionName": "CTO"
         },
@@ -11498,7 +11505,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Media Relation"
+            "value": "Media Relation",
+            "desc":"Media Relation Description"
           },
           "positionName": "Senior Trader",
           "children": [
@@ -11881,7 +11889,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Security"
+            "value": "Security",
+            "desc":"Security Department Description"
           },
           "positionName": "Head of laboratory",
           "children": [
@@ -11969,7 +11978,8 @@
           "tags": "Ceo,tag1, tag2",
           "unit": {
             "type": "department",
-            "value": "Purchases Department"
+            "value": "Purchases Department",
+            "desc":"Purchase Department Description"
           },
           "positionName": "Head of channels",
           "children": [
@@ -15977,7 +15987,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Inventory  Department"
+            "value": "Inventory  Department",
+            "desc":"Inventory Department Description"
           },
           "positionName": "Senior Android Developer",
           "children": [
@@ -17988,7 +17999,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Operation  Department"
+            "value": "Operation  Department",
+            "desc":"Operation Department Description"
           },
           "positionName": "Senior Developer",
           "children": [
@@ -18048,7 +18060,8 @@
           "tags": "Ceo,tag1, tag2",
           "unit": {
             "type": "department",
-            "value": "Insurance  Department"
+            "value": "Insurance  Department",
+            "desc":"Insurance Department Description"
           },
           "positionName": "Head of channels",
           "children": [
@@ -18078,7 +18091,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Licenses  Department"
+            "value": "Licenses  Department",
+            "desc":"Licenses Department Description"
           },
           "positionName": "Senior Android Developer",
           "children": [
@@ -20089,7 +20103,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": " Customers  Department"
+            "value": " Customers  Department",
+            "desc":"Customers Department Description"
           },
           "positionName": "Senior Developer",
           "children": [
@@ -20149,7 +20164,8 @@
           "tags": "Ceo,tag1, tag2",
           "unit": {
             "type": "department",
-            "value": "Staf"
+            "value": "Staf",
+            "desc":"Staff Department Description"
           },
           "positionName": "Head of channels",
           "children": [
@@ -20179,7 +20195,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Research Department"
+            "value": "Research Department",
+            "desc":"Research Department Description"
           },
           "positionName": "Senior Android Developer",
           "children": [
@@ -22221,7 +22238,8 @@
           "isLoggedUser": false,
           "unit": {
             "type": "department",
-            "value": "Management Department"
+            "value": "Management Department",
+            "desc":"management Department Description"
           },
           "positionName": "Senior Developer",
           "children": [
