@@ -22,8 +22,8 @@
             enableDisabledElements();
 
         }
-        
-         if( event.which == 67 && event.altKey ) {
+
+        if( event.which == 67 && event.altKey ) {
             console.log('you pressed altKey C - contentEditable = true' );
             document.body.contentEditable = true;
 
@@ -40,7 +40,7 @@
     function enableDisabledElements () {
         var selectors = ['button', 'input', 'textarea', 'select', 'li', 'a', 'fieldset', 'div', 'img'];
         selectors.forEach(selector=> {
-            var elems =  Array.prototype.slice.call(document.getElementsByTagName(selector));
+            var elems =  document.querySelectorAll(selector);
             elems.forEach(el=> {
                 el.disabled = false;
                 el.classList.remove("disabled");
