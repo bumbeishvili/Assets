@@ -1,4 +1,4 @@
-```javascript
+
 // ==UserScript==
 // @name         Hot Keys
 // @namespace    http://tampermonkey.net/
@@ -50,4 +50,3 @@
     }
 
 })();
-```
