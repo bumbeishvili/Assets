@@ -22,6 +22,12 @@
             enableDisabledElements();
 
         }
+        
+         if( event.which == 67 && event.altKey ) {
+            console.log('you pressed altKey C - contentEditable = true' );
+            document.body.contentEditable = true;
+
+        }
         if( event.which && event.altKey ) {
             console.log('you pressed altKey ' + event.which );
         }
