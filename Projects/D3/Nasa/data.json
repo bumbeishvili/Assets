@@ -1,0 +1,154 @@
+{
+  "name": "Manager",
+  "topCenterSegment": {
+    "name": "Time Application"
+  },
+  "bottomCenterSegment": {
+    "name": "Work Value"
+  },
+  "factors": [
+    {
+      "id": 1,
+      "name": "Big Wrapped Green Factor ",
+      "color": "#36BC9B",
+      "childColor": "#35BB9A",
+      "competencies": [
+        {
+          "name": "Green Factor's competency one",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour1",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            },
+            {
+              "name": "behaviour2",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Green Factor's competency second",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour13",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Big Wrapped Blue Factor ",
+      "color": "#5D9CEC",
+      "childColor": "#4B89DC",
+      "competencies": [
+        {
+          "name": "Blue Factor's First competency ",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour14",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Blue Factor's Second competency ",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour15",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Big Wrapped Pink Factor ",
+      "color": "#EC87BF",
+      "childColor": "#D870AD",
+      "competencies": [
+        {
+          "name": "Pink Factor's First competency",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour16",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pink Factor's Second competency",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour17",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Big Wrapped Orange Factor ",
+      "color": "#FFCE55",
+      "childColor": "#F6BB43",
+      "competencies": [
+        {
+          "name": "Orange Factor's First competency",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour18",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Orange Factor's Second competency",
+          "description": "Maintains high level competency in functional discipline(e.g. science, engineering,professional or administrative)",
+          "behaviours": [
+            {
+              "name": "behaviour19",
+              "description": [
+                "Understands the work associated with organization",
+                "creates the vision for functional and programmatic excellence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
