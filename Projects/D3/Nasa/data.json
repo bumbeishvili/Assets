@@ -19,17 +19,11 @@
           "behaviours": [
             {
               "name": "behaviour1",
-              "description": [
-                "Understands the work associated with organization",
-                "creates the vision for functional and programmatic excellence"
-              ]
+              "description":"<h3>beh 1 title</h3> <p> behaviour 1 description</p>"
             },
             {
               "name": "behaviour2",
-              "description": [
-                "Understands the work associated with organization",
-                "creates the vision for functional and programmatic excellence"
-              ]
+               "description":"<h3>beh 2 title</h3> <p> behaviour 2a description</p>"
             }
           ]
         },
