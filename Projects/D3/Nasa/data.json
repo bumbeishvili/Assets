@@ -1,206 +1,206 @@
 {
-  "Id": 0,
-  "Name": null,
-  "Description": null,
-  "TimeApplication": {
-    "Name": null,
-    "Description": null
+  "id": 0,
+  "name": null,
+  "description": null,
+  "timeApplication": {
+    "name": null,
+    "description": null
   },
-  "WorkValues": {
-    "Name": null,
-    "Description": null
+  "workValues": {
+    "name": null,
+    "description": null
   },
-  "Factors": [
+  "factors": [
     {
-      "Id": 1,
-      "Name": "Results",
-      "FactorColor": "000000",
-      "CompetencyColor": "000000",
-      "Competencies": [
+      "id": 1,
+      "name": "Results",
+      "factorColor": "000000",
+      "competencyColor": "000000",
+      "competencies": [
         {
-          "Id": 3,
-          "Name": "Inspire and Energize Team",
-          "Description": null,
-          "Behaviours": [
+          "id": 3,
+          "name": "Inspire and Energize Team",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 1,
-              "Name": "Building the team",
-              "Description": "measures how effectively the leader assembles strong team and leads it, provides encouragement and understanding necessary for subordinate managers to work well together and cope successfully with complexity, unfamiliarity and volume of work, relies on team rather than being reliant to one manager"
+              "id": 1,
+              "name": "Building the team",
+              "description": "measures how effectively the leader assembles strong team and leads it, provides encouragement and understanding necessary for subordinate managers to work well together and cope successfully with complexity, unfamiliarity and volume of work, relies on team rather than being reliant to one manager"
             },
             {
-              "Id": 2,
-              "Name": "Climate Setting",
-              "Description": "measures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team moralemeasures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team morale"
+              "id": 2,
+              "name": "Climate Setting",
+              "description": "measures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team moralemeasures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team morale"
             }
           ]
         },
         {
-          "Id": 4,
-          "Name": "Visible Integrity",
-          "Description": null,
-          "Behaviours": [
+          "id": 4,
+          "name": "Visible Integrity",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 3,
-              "Name": "Consistency",
-              "Description": "measures the extent to which the leader shows consistency between words and actions, delivers what is promised"
+              "id": 3,
+              "name": "Consistency",
+              "description": "measures the extent to which the leader shows consistency between words and actions, delivers what is promised"
             },
             {
-              "Id": 4,
-              "Name": "Authenticity",
-              "Description": "measures how sincere and genuine is the leader, is true to him/herself, shares his/her real thoughts, beliefs and opinions, fosters an environment of mutual trust"
+              "id": 4,
+              "name": "Authenticity",
+              "description": "measures how sincere and genuine is the leader, is true to him/herself, shares his/her real thoughts, beliefs and opinions, fosters an environment of mutual trust"
             }
           ]
         },
         {
-          "Id": 5,
-          "Name": "Courage",
-          "Description": null,
-          "Behaviours": [
+          "id": 5,
+          "name": "Courage",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 5,
-              "Name": "Appetite for Accomplishment",
-              "Description": "measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk"
+              "id": 5,
+              "name": "Appetite for Accomplishment",
+              "description": "measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk"
             },
             {
-              "Id": 6,
-              "Name": "Self-Confidence",
-              "Description": "measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date"
+              "id": 6,
+              "name": "Self-Confidence",
+              "description": "measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date"
             }
           ]
         },
         {
-          "Id": 6,
-          "Name": "Develop Leaders",
-          "Description": null,
-          "Behaviours": [
+          "id": 6,
+          "name": "Develop Leaders",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 7,
-              "Name": "Push for recommendations",
-              "Description": "measures the extent to which the leader makes each person feel his/her contributions are important, invites input and recommendations from direct reports sharing ownership and visibility"
+              "id": 7,
+              "name": "Push for recommendations",
+              "description": "measures the extent to which the leader makes each person feel his/her contributions are important, invites input and recommendations from direct reports sharing ownership and visibility"
             },
             {
-              "Id": 8,
-              "Name": "Drive First Time Leaders’ Accountability",
-              "Description": "measures how effectively the leader evaluates direct reports based on quality of their decisions, their performance feedback, ability to collaborate with other units and by results produced through their team"
+              "id": 8,
+              "name": "Drive First Time Leaders’ Accountability",
+              "description": "measures how effectively the leader evaluates direct reports based on quality of their decisions, their performance feedback, ability to collaborate with other units and by results produced through their team"
             },
             {
-              "Id": 9,
-              "Name": "Coaching and Caring",
-              "Description": "measures how effectively the leader develops direct reports through coaching, acknowledges an individual’s or team’s success; provides them with recognition when the work warrants it; motivates direct reports by making them feel valued for their contributions, delivers negative feedback properly - builds rapport in an open, friendly, and accepting way, outlines key results areas and indicators of their success"
+              "id": 9,
+              "name": "Coaching and Caring",
+              "description": "measures how effectively the leader develops direct reports through coaching, acknowledges an individual’s or team’s success; provides them with recognition when the work warrants it; motivates direct reports by making them feel valued for their contributions, delivers negative feedback properly - builds rapport in an open, friendly, and accepting way, outlines key results areas and indicators of their success"
             },
             {
-              "Id": 10,
-              "Name": "Talent Development",
-              "Description": "measures the extent to which the leader supports team’s training activities, ensures those activities are focused and efficient; has ability to guide employees with high potential (talents) toward future career opportunities"
+              "id": 10,
+              "name": "Talent Development",
+              "description": "measures the extent to which the leader supports team’s training activities, ensures those activities are focused and efficient; has ability to guide employees with high potential (talents) toward future career opportunities"
             },
             {
-              "Id": 11,
-              "Name": "Convey Strategy",
-              "Description": "measures how effectively the leader inspires team by communicating a compelling vision or sense of core purpose; makes the vision sharable by everyone, anticipates future consequences and trends and recognizes opportunities for change"
+              "id": 11,
+              "name": "Convey Strategy",
+              "description": "measures how effectively the leader inspires team by communicating a compelling vision or sense of core purpose; makes the vision sharable by everyone, anticipates future consequences and trends and recognizes opportunities for change"
             },
             {
-              "Id": 12,
-              "Name": "Give Decision Power",
-              "Description": "measures how effectively the leader develops direct reports through exposure, and stretch assignments, empowers to make decisions"
+              "id": 12,
+              "name": "Give Decision Power",
+              "description": "measures how effectively the leader develops direct reports through exposure, and stretch assignments, empowers to make decisions"
             },
             {
-              "Id": 13,
-              "Name": "Talent Selection",
-              "Description": "measures the extent to which the leader is a good judge of people finding the right Talent to meet the business’s needs, has good interviewing skills, highly valuing internal candidates, keeps the right balance between them and external candidates"
+              "id": 13,
+              "name": "Talent Selection",
+              "description": "measures the extent to which the leader is a good judge of people finding the right Talent to meet the business’s needs, has good interviewing skills, highly valuing internal candidates, keeps the right balance between them and external candidates"
             }
           ]
         },
         {
-          "Id": 7,
-          "Name": "Emotional Fortitude",
-          "Description": null,
-          "Behaviours": [
+          "id": 7,
+          "name": "Emotional Fortitude",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 14,
-              "Name": "Positivity",
-              "Description": "measures the extent to which the leader maintains a positive attitude despite adversity, bounces back from setbacks, grows from hardships and negative experiences"
+              "id": 14,
+              "name": "Positivity",
+              "description": "measures the extent to which the leader maintains a positive attitude despite adversity, bounces back from setbacks, grows from hardships and negative experiences"
             }
           ]
         }
       ]
     },
     {
-      "Id": 2,
-      "Name": "People Management",
-      "FactorColor": "000000",
-      "CompetencyColor": "000000",
-      "Competencies": [
+      "id": 2,
+      "name": "People Management",
+      "factorColor": "000000",
+      "competencyColor": "000000",
+      "competencies": [
         {
-          "Id": 8,
-          "Name": "Execution",
-          "Description": null,
-          "Behaviours": [
+          "id": 8,
+          "name": "Execution",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 15,
-              "Name": "Workflow Management",
-              "Description": "measures the extent to which the leader tears down the boundaries that impede the flow of work and information between different functions and other groups so that work, information, ideas and technology flow freely among his/her units"
+              "id": 15,
+              "name": "Workflow Management",
+              "description": "measures the extent to which the leader tears down the boundaries that impede the flow of work and information between different functions and other groups so that work, information, ideas and technology flow freely among his/her units"
             },
             {
-              "Id": 16,
-              "Name": "Deploy resources",
-              "Description": "measures how effectively the leader determines whether units/teams are using resources effectively, properly reallocates time, money, technology and people to improve results"
+              "id": 16,
+              "name": "Deploy resources",
+              "description": "measures how effectively the leader determines whether units/teams are using resources effectively, properly reallocates time, money, technology and people to improve results"
             }
           ]
         },
         {
-          "Id": 9,
-          "Name": "Ensuring Performance",
-          "Description": null,
-          "Behaviours": [
+          "id": 9,
+          "name": "Ensuring Performance",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 17,
-              "Name": "Performance Management appraisal",
-              "Description": "measures the extent to which the leader sets clear goals for employees; sets and communicates performance standards (KPIs) that are specific and measurable; establishes and maintains methods to track progress and performance; provides feedback; deals firmly and promptly with subordinated units' and employee performance problems"
+              "id": 17,
+              "name": "Performance Management appraisal",
+              "description": "measures the extent to which the leader sets clear goals for employees; sets and communicates performance standards (KPIs) that are specific and measurable; establishes and maintains methods to track progress and performance; provides feedback; deals firmly and promptly with subordinated units' and employee performance problems"
             }
           ]
         }
       ]
     },
     {
-      "Id": 3,
-      "Name": "Creative",
-      "FactorColor": "000000",
-      "CompetencyColor": "000000",
-      "Competencies": [
+      "id": 3,
+      "name": "Creative",
+      "factorColor": "000000",
+      "competencyColor": "000000",
+      "competencies": [
         {
-          "Id": 10,
-          "Name": "Manage the boundaries",
-          "Description": null,
-          "Behaviours": [
+          "id": 10,
+          "name": "Manage the boundaries",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 18,
-              "Name": "Cross-unit collaboration",
-              "Description": "measures how effectively the leader ensures cross-unit collaboration and accelerates work processes helping the organization gain competitive advantage"
+              "id": 18,
+              "name": "Cross-unit collaboration",
+              "description": "measures how effectively the leader ensures cross-unit collaboration and accelerates work processes helping the organization gain competitive advantage"
             }
           ]
         }
       ]
     },
     {
-      "Id": 4,
-      "Name": "SELF-DEVELOPMENT",
-      "FactorColor": "000000",
-      "CompetencyColor": "000000",
-      "Competencies": [
+      "id": 4,
+      "name": "SELF-DEVELOPMENT",
+      "factorColor": "000000",
+      "competencyColor": "000000",
+      "competencies": [
         {
-          "Id": 11,
-          "Name": "Mindfulness",
-          "Description": null,
-          "Behaviours": [
+          "id": 11,
+          "name": "Mindfulness",
+          "description": null,
+          "behaviours": [
             {
-              "Id": 19,
-              "Name": "Self-Awareness",
-              "Description": "measures the extent to which the leader personally committed to and actively works to continuously improve him or herself; recognizes the need to change personal, interpersonal, and managerial behavior; reflects on activities and impacts on others, proactively seeks feedback without being defensive, is open to criticism and talking about shortcomings, admits mistakes and gains insight from experiences, knows strengths, weaknesses, opportunities, and limits"
+              "id": 19,
+              "name": "Self-Awareness",
+              "description": "measures the extent to which the leader personally committed to and actively works to continuously improve him or herself; recognizes the need to change personal, interpersonal, and managerial behavior; reflects on activities and impacts on others, proactively seeks feedback without being defensive, is open to criticism and talking about shortcomings, admits mistakes and gains insight from experiences, knows strengths, weaknesses, opportunities, and limits"
             },
             {
-              "Id": 20,
-              "Name": "Committed Learner",
-              "Description": "measures the extent to which the leader takes action to continuously improve, seeks learning opportunities from networks, forums, reading, talks by academics and other thought leaders, accepts assignments that broaden capabilities, makes the most of available development resources"
+              "id": 20,
+              "name": "Committed Learner",
+              "description": "measures the extent to which the leader takes action to continuously improve, seeks learning opportunities from networks, forums, reading, talks by academics and other thought leaders, accepts assignments that broaden capabilities, makes the most of available development resources"
             }
           ]
         }
