@@ -14,8 +14,8 @@
     {
       "id": 1,
       "name": "Results",
-      "factorColor": "000000",
-      "competencyColor": "000000",
+      "factorColor": "#36BC9B",
+      "competencyColor": "#36BC9B",
       "competencies": [
         {
           "id": 3,
@@ -127,8 +127,8 @@
     {
       "id": 2,
       "name": "People Management",
-      "factorColor": "000000",
-      "competencyColor": "000000",
+      "factorColor": "#5D9CEC",
+      "competencyColor": "#4B89DC",
       "competencies": [
         {
           "id": 8,
@@ -164,8 +164,8 @@
     {
       "id": 3,
       "name": "Creative",
-      "factorColor": "000000",
-      "competencyColor": "000000",
+      "factorColor": "#EC87BF",
+      "competencyColor": "#D870AD",
       "competencies": [
         {
           "id": 10,
@@ -184,8 +184,8 @@
     {
       "id": 4,
       "name": "SELF-DEVELOPMENT",
-      "factorColor": "000000",
-      "competencyColor": "000000",
+      "factorColor": "#FFCE55",
+      "competencyColor": "#F6BB43",
       "competencies": [
         {
           "id": 11,
