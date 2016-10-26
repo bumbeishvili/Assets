@@ -3,12 +3,12 @@
   "name": null,
   "description": null,
   "timeApplication": {
-    "name": null,
-    "description": null
+    "name": "test name",
+    "description": "test description"
   },
   "workValues": {
-    "name": null,
-    "description": null
+    "name": "test name",
+    "description": "test description"
   },
   "factors": [
     {
@@ -30,7 +30,7 @@
             {
               "id": 2,
               "name": "Climate Setting",
-              "description": "measures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team moralemeasures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team morale"
+              "description": "Climate Setting measures the extent to which the leader is an easy-accessible and builds communication in an open and friendly way, encourages the open expression of diverse ideas, opinions, fosters innovation, maintains strong team morale"
             }
           ]
         },
@@ -59,12 +59,12 @@
             {
               "id": 5,
               "name": "Appetite for Accomplishment",
-              "description": "measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk"
+              "description": "Appetite for Accomplishment measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk"
             },
             {
               "id": 6,
               "name": "Self-Confidence",
-              "description": "measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date"
+              "description": "Self-Confidence measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date"
             }
           ]
         },
@@ -138,12 +138,12 @@
             {
               "id": 15,
               "name": "Workflow Management",
-              "description": "measures the extent to which the leader tears down the boundaries that impede the flow of work and information between different functions and other groups so that work, information, ideas and technology flow freely among his/her units"
+              "description": "Workflow Management measures the extent to which the leader tears down the boundaries that impede the flow of work and information between different functions and other groups so that work, information, ideas and technology flow freely among his/her units"
             },
             {
               "id": 16,
               "name": "Deploy resources",
-              "description": "measures how effectively the leader determines whether units/teams are using resources effectively, properly reallocates time, money, technology and people to improve results"
+              "description": "Deploy resources measures how effectively the leader determines whether units/teams are using resources effectively, properly reallocates time, money, technology and people to improve results"
             }
           ]
         },
