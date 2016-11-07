@@ -1,153 +1,102 @@
 {
   "id": 0,
-  "name": "Business Manager",
-  "description": "This level represents <strong>Deputy CEO</strong>s, members of Directorate. Employees in this category are responsible for defining business strategy for the company and/or subordinate business directions and contributing to the organization through their vision",
-  "currentLangKey": "EN",
+  "name": "კორპორაციის მენეჯერი",
+  "description": "მოცემული საფეხური მოიცავს <strong>გენერალური დირექტორის</strong> პოზიციას, რომელიც პასუხისმგებელია ბანკის ბიზნეს სტრატეგიის განსაზღვრასა და კომპანიის გაძღოლაზე/ლიდერშიპზე",
+  "currentLangKey": "GE",
   "timeApplication": {
-    "name": "Time Application",
-    "description": "<ul>\r\n\t<li>Share and acknowledge success of others </li>\r\n\r\n\t<li>Help people and businesses succeed </li>\r\n\r\n\t<li>Put in a tremendous amount of time thinking, learning, and strategizing, do the exploration, research and analysis necessary to grasp given business</li>\r\n\r\n</ul>"
+    "name": "დროის გადანაწილება",
+    "description": "<ul>\r\n\t<li>გრძელ და მოკლე ვადიან გეგმებს შორის ბალანსის დაცვა და შესრულება</li>\r\n\r\n\t<li>მთელი კომპანიის შესრულების/შედეგების შეფასება</li>\r\n\r\n\t<li>გარე და შიდა საქმიანობებზე დროის გადანაწილების დაბალანსება </li>\r\n\r\n\t<li>ყველა დონის ადამიანის მოსმენა, მომსახურებასა და ხარისხზე მომხმარებლის ხედვის გააზრება </li>\r\n\r\n\t<li>კომპანიის ადამიანური კაპიტალისთვის სათანადო დროის დათმობა</li>\r\n\r\n</ul>"
   },
   "workValues": {
-    "name": "Work Values",
-    "description": "<ul>\r\n\t<li>Share and acknowledge success of others </li>\r\n\r\n\t<li>Leadership Development  - a growth engine for the company  </li>\r\n\r\n\t<li>Be Socratic in supervisory style, fair-mindedness </li>\r\n\r\n\t<li>Corporate citizenship, value corporation's needs - making an effort to understand and respond to them </li>\r\n\r\n\t<li>Business acumen, broad and objective perspectives </li>\r\n\r\n\t<li>Personal credibility </li>\r\n\r\n\t<li>Deep Thinking and Risk Taking</li>\r\n\r\n</ul>"
+    "name": "სამუშაო ღირებულებები",
+    "description": "<ul>\r\n\t<li>კომპანიის რისკის აღება - ისეთი გადაწყვეტილებების მიღება, რომლებიც ადრე არავის მიუღია და შესაძლოა საშიშად აღიქმებოდეს</li>\r\n\r\n\t<li>გრძელვადიანი და მოკლევადიანი მდგრადი განვითარება - თანმიმდევრული, ევოლუციური შედეგები</li>\r\n\r\n\t<li>შესრულება და კომპანიის შედეგები</li>\r\n\r\n\t<li>სხვა მენეჯერების წარმატების დაფასება</li>\r\n\t<li>მოსაზრებების და იდეების ფართო სპექტრის მხარდაჭერა</li>\r\n\t<li>ძალაუფლების სწორი მართვა, თავშეკავების და გავლენის მოხდენის უნარი</li>\r\n\r\n\t<li>თანამშრომელთა სამუშაოს დაფასება</li>\r\n\r\n</ul>"
   },
   "factors": [
     {
       "id": 5,
-      "name": "LEADERSHIP",
+      "name": "ლიდერობა",
       "factorColor": "#5D9CEC",
       "competencyColor": "#4B89DC",
       "competencies": [
         {
-          "id": 24,
-          "name": "Sense of ownership",
+          "id": 14,
+          "name": "გამბედაობა",
           "description": null,
           "behaviours": [
             {
-              "id": 87,
-              "name": "Lead Multiple Businesses",
-              "description": "Lead Multiple Businesses measures the extent to which the leader acts with a clear sense of ownership, behaves as sole owner of the businesses, and leads multiple, diverse businesses",
+              "id": 137,
+              "name": "შედეგებისკენ სწრაფვა",
+              "description": "შედეგებისკენ სწრაფვა - აფასებს, რამდენად მზადაა ლიდერი, გაუმკლავდეს რთულ დავალებებს, საკუთარ თავზე აიღოს რთული საკითხები, დაიცვას საკუთარი პოზიცია/იდეა და მოიპოვოს გამარჯვება შესაძლო რისკების მიუხედავად.",
+              "isLinkedOnMultipleCompetency": true
+            },
+            {
+              "id": 136,
+              "name": "თავდაჯერებულობა",
+              "description": "თავდაჯერებულობა - აფასებს, რამდენად თავდაჯერებულია ლიდერი,  რომ აღიაროს საკუთარი ცოდნის ნაკლებობა, თქვას „მე ეს არ ვიცი“ და აიღოს პასუხისმგებლობა, რომ დროულად მოიძიოს სათანადო ინფორმაცია და მიიღოს გადაწყვეტილება.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
           "id": 13,
-          "name": "Visible Integrity",
+          "name": "სანდოობა",
           "description": null,
           "behaviours": [
             {
-              "id": 101,
-              "name": "Consistency",
-              "description": "Consistency measures the extent to which the leader shows consistency between words and actions, delivers what is promised",
+              "id": 143,
+              "name": "თანმიმდევრულობა",
+              "description": "თანმიმდევრულობა - აფასებს, რამდენად შეესაბამება ლიდერის სიტყვები და ქმედებები ერთმანეთს, რამდენად ასრულებს იგი დანაპირებს",
               "isLinkedOnMultipleCompetency": false
             },
             {
-              "id": 100,
-              "name": "Authenticity",
-              "description": "Authenticity measures how sincere and genuine is the leader, is true to him/herself, shares his/her real thoughts, beliefs and opinions, fosters an environment of mutual trust",
-              "isLinkedOnMultipleCompetency": false
-            }
-          ]
-        },
-        {
-          "id": 45,
-          "name": "Custodian of Culture",
-          "description": null,
-          "behaviours": [
-            {
-              "id": 113,
-              "name": "Treasure Organizational Beliefs",
-              "description": "Treasure Organizational Beliefs measures the extent to which the leader values culture and organizational beliefs, assigns high priority to this responsibility, eagerly spends time, emotional energy on assessing or reshaping their business cultures or defining what it is their units stand for",
-              "isLinkedOnMultipleCompetency": false
-            }
-          ]
-        },
-        {
-          "id": 19,
-          "name": "Strategic Mindset",
-          "description": null,
-          "behaviours": [
-            {
-              "id": 95,
-              "name": "Strategic Thinking",
-              "description": "Strategic Thinking measures the extent to which the leader assesses and planes for the uncovered part of the business, projecting where innovation might occur, and who the new players might be, is sophisticated about financial analysis, determines which products have the most growth potential,  and starts new business or extends existing ones in order to develop a new niche",
+              "id": 142,
+              "name": "ნამდვილობა",
+              "description": "ნამდვილობა - აფასებს, რამდენად გულწრფელი და გულახდილია ლიდერი, ერთგულია საკუთარი პრინციპების, უზიარებს სხვებს თავის ჭეშმარიტ ფიქრებს, აზრებს და შეხედულებებს, ქმნის ურთიერთნდობის ატმოსფეროს.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
           "id": 16,
-          "name": "Develop Leaders",
+          "name": "ლიდერების განვითარება",
           "description": null,
           "behaviours": [
             {
-              "id": 46,
-              "name": "Give Decision Power",
-              "description": "Give Decision Power measures how effectively the leader develops direct reports through exposure, and stretch assignments, empowers to make decisions",
-              "isLinkedOnMultipleCompetency": false
-            },
-            {
-              "id": 47,
-              "name": "Drive Corporate Accountability",
-              "description": "Drive Corporate Accountability measures how effectively the leader communicates the direct reports, that \"everything counts\", that they are responsible for more than solid financial performance: making connections between diverse elements of functions including customers and suppliers, pulling functions together helping them work toward an ambitious goal",
-              "isLinkedOnMultipleCompetency": false
-            },
-            {
-              "id": 48,
-              "name": "Coach strategists",
-              "description": "Coach strategists measures how effectively the leader coaches direct reports on dealing with business strategy, provides great freedom to run functions within the strategic framework he/she developed allowing direct report to forge their own strategies",
-              "isLinkedOnMultipleCompetency": false
-            },
-            {
-              "id": 49,
-              "name": "Talent Judgment",
-              "description": "Talent Judgment measures how effectively the leader defines job and candidate specifications, identifies the right person for the right job, selects managers who can handle next level positions",
+              "id": 138,
+              "name": "ტალანტების მაძიებელი",
+              "description": "ტალანტების მაძიებელი - აფასებს, თუ   რამდენად ეფექტურად განსაზღვრავს ლიდერი შესაბამის მოთხოვნებს საკვანძო პოზიციებისთვის, არჩევს შესაფერის კანდიდატებს, ნიშნავს სწორ ადამიანებს სწორ პოზიციაზე, განუწყვეტლივ ავითარებს მათ უნარ-ჩვევებს და ცოდნას ქოუჩინგისა და უკუკავშირის გზით.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
-          "id": 22,
-          "name": "Handle visibility",
+          "id": 17,
+          "name": "ემოციური სიმტკიცე",
           "description": null,
           "behaviours": [
             {
-              "id": 59,
-              "name": "Pretest ideas",
-              "description": "Pretest ideas measures how successfully the leader handles the spotlight by pretesting ideas, decisions and proposals with trusted associates, determines how externals assess a move and counts it in decision-making process, is open and flexible when his/her positions are questioned in public, not placed in the position of becoming locked in",
+              "id": 139,
+              "name": "რეალობის მიღება",
+              "description": "რეალობის მიღება – აფასებს, თუ რამდენად მზად არის ლიდერი ცუდი ამბების მოსასმენად და ავლენს ემოციურ მდგრადობას არასასიამოვნო გადაწყვეტილებების მიღებისას.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
-          "id": 25,
-          "name": "Corporate Citizenship",
+          "id": 26,
+          "name": "ადამიანური კაპიტალის კულტურა",
           "description": null,
           "behaviours": [
             {
-              "id": 32,
-              "name": "Value Corporation",
-              "description": "Value Corporation measures the extent to which the leader values company's needs, makes efforts to understand and respond to them - gains insight, identifies opportunities that benefit the organization, builds and delivers solutions that meet corporate needs",
-              "isLinkedOnMultipleCompetency": false
-            }
-          ]
-        },
-        {
-          "id": 14,
-          "name": "Courage",
-          "description": null,
-          "behaviours": [
-            {
-              "id": 106,
-              "name": "Appetite for Accomplishment",
-              "description": "Appetite for Accomplishment measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk",
+              "id": 140,
+              "name": "ადამიანების შთაგონება",
+              "description": "ადამიანების შთაგონება – აფასებს, თუ  რამდენად ეფექტურად უზიარებს ლიდერი თავის ხედვას სხვადასხვა თანამშრომლებს, რათა დააინტერესოს ისინი და  უზრუნველყოს შესრულების მოტივაცია,   ურთიერთობს იმგვარად, რომ ენერგიით მუხტავს თანამშრომლების დიდ და მრავალფეროვან ჯგუფებს,   აკვირდება, თუ რამდენად პროდუქტიული და ენთუზიაზმით სავსეა გუნდი.",
               "isLinkedOnMultipleCompetency": false
             },
             {
-              "id": 6,
-              "name": "Self-Confidence",
-              "description": "Self-Confidence measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date",
+              "id": 141,
+              "name": "ყურადღებიანი მსმენელი",
+              "description": "ყურადღებიანი მსმენელი – აფასებს, თუ რამდენად ყურადღებით ისმენს ლიდერი სხვადასხვა მოსაზრებებს, სვამს შეკითხვებს და ყურს უგდებს ადამიანების ფართო სპექტრს.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
@@ -156,38 +105,57 @@
     },
     {
       "id": 6,
-      "name": "MANAGEMENT",
+      "name": "მენეჯმენტი",
       "factorColor": "#EC87BF",
       "competencyColor": "#D870AD",
       "competencies": [
         {
-          "id": 33,
-          "name": "Corporate Governance",
+          "id": 34,
+          "name": "ხედვა და სტრატეგია",
           "description": null,
           "behaviours": [
             {
-              "id": 33,
-              "name": "Ensure Compliance",
-              "description": "Ensure Compliance measures the extent to which the leader monitors compliance with corporate standards, policies and values, makes sure subordinate directions and functions obey the law and maintain or enhance the brand while pursuing profit",
+              "id": 146,
+              "name": "ფართო ხედვა",
+              "description": "ფართო ხედვა – აფასებს, თუ რამდენად ეფექტურად ხედავს ლიდერი დიდ სურათს - განჭვრეტს გრძელვადიან განვითარებასთან დაკავშირებულ პროცესებს და ახდენს მოკლევადიანი ტაქტიკის მისადაგებას გრძელვადიან პერსპექტივასთან.",
+              "isLinkedOnMultipleCompetency": false
+            },
+            {
+              "id": 147,
+              "name": "მიმართულების განსაზღვრა",
+              "description": "მიმართულების განსაზღვრა  – აფასებს,  რამდენად ეფექტურად მართავს ლიდერი კომპანიას ფართო, გლობალურ კონტექსტში, სწორად განსაზღვრავს კომპანიის მიმართულებას, შეიმუშავებს შესრულების პროგნოზებს საშუალო და გრძელვადიანი პერიოდებისთვის.",
+              "isLinkedOnMultipleCompetency": false
+            },
+            {
+              "id": 148,
+              "name": "მოგების ალღო",
+              "description": "მოგების ალღო –აფასებს,  რამდენად ღრმად ესმის ლიდერს ბიზნესი, წინასწარ ხვდება დარგში მოსალოდნელ ცვლილებებს: რა ხერხები და ბიზნეს მოდელები მოიტანს ფულს და რა კონკურენტულ სვლებს უნდა მიექცეს ყურადღება, რომ ეფექტურად გაუმკლავდეს  გამოწვევებს.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
           "id": 27,
-          "name": "Execution",
+          "name": "შესრულება",
           "description": null,
           "behaviours": [
             {
-              "id": 27,
-              "name": "Pursue Corporate Goals",
-              "description": "Pursue Corporate Goals measures the extent to which the leader executes and monitors if direct reports (direction and functional managers) are plugged into corporate goals and strategies, requires externally driven (customer centric) goals",
+              "id": 144,
+              "name": "კორპორაციული მიზნების მიღწევა",
+              "description": "კორპორაციული მიზნების მიღწევა - აფასებს, თუ  რამდენად ასრულებს ლიდერი თავად  და უზრუნველყოფს მისი უშუალო დაქვემდებარებულების (მიმართულების და ფუნქციონალური მენეჯერების) ჩართულობას კორპორაციული მიზნებისა და სტრატეგიების შესრულებაში, ითხოვს მათგან მომხმარებლებზე  ორიენტირებულ მიზნებს.",
               "isLinkedOnMultipleCompetency": false
-            },
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "ადამიანების მართვა",
+          "description": null,
+          "behaviours": [
             {
-              "id": 28,
-              "name": "Support Performance",
-              "description": "Support Performance measures how effectively the leader access direct reports, their teams, cultures, judging their strategic skills and influence to approve projects, demands performance, and paying attention to performance recognizes when a direct report is having problems",
+              "id": 145,
+              "name": "ადამიანების განსჯა/შეფასება ",
+              "description": "ადამიანების განსჯა/შეფასება - აფასებს, თუ რამდენად მართებულად აფასებს ლიდერი ადამიანებთან დაკავშირებულ საკითხებს/მოვლენებს",
               "isLinkedOnMultipleCompetency": false
             }
           ]
@@ -196,38 +164,56 @@
     },
     {
       "id": 7,
-      "name": "RELATIONSHIPS",
+      "name": "ურთიერთობები",
       "factorColor": "#FFCE55",
       "competencyColor": "#F6BB43",
       "competencies": [
         {
-          "id": 39,
-          "name": "Networking and Socializing",
+          "id": 40,
+          "name": "მრავალფეროვანი ურთიერთობების მართვა",
           "description": null,
           "behaviours": [
             {
-              "id": 52,
-              "name": "Value success of others",
-              "description": "Value success of others measures how effectively the leader shares and acknowledges success of others, recognizing that success needs cooperation and maintains constructive relationships both with direct reports and the corporation, and builds and maintains external relationships.",
+              "id": 149,
+              "name": "კომპანიის გარემო",
+              "description": "კომპანიის გარემო აფასებს, თუ  რამდენად ეფექტურად ასაზრდოებს  ლიდერი ღია და პოზიტიურ გარემოს კომპანიაში",
+              "isLinkedOnMultipleCompetency": false
+            },
+            {
+              "id": 150,
+              "name": "საზოგადოებრივი იმიჯი",
+              "description": "საზოგადოებრივი იმიჯი  აფასებს, თუ  რამდენად ეფექტურად მართავს ლიდერი სოციალურ ურთიერთობებს, ურთიერთობს გარე ჯგუფებთან და ქმნის პოზიტიურ საზოგადოებრივ აზრს როგორც საკუთარი თავის, ასევე კომპანიის შესახებ.",
+              "isLinkedOnMultipleCompetency": false
+            },
+            {
+              "id": 151,
+              "name": "განსხვავებების მართვა",
+              "description": "განსხვავებების მართვა აფასებს, თუ  რამდენად ეფექტურად ართმევს თავს ლიდერი ურთიერთობას სხვადასხვა საზოგადოებრივ დაჯგუფებებთან, რომელთა ქცევის მოდელი და ინტერესები რადიკალურად განსხვავდება მისგან.",
+              "isLinkedOnMultipleCompetency": false
+            },
+            {
+              "id": 152,
+              "name": "სამეთვალყურეო საბჭოსთან ურთიერთობა",
+              "description": "სამეთვალყურეო საბჭოსთან ურთიერთობა აფასებს, თუ როგორ ინარჩუნებს ლიდერი პარტნიორულ ურთიერთობას სამეთვალყურეო საბჭოსთან, რამდენად გახსნილია იგი, იცის მოსმენა და შეუძლია სწავლა, საჭიროების შემთხვევაში, თავად უზიარებს ცოდნას და სიახლეებს, აკვირდება, თუ როგორ ასრულებს საბჭო თავის მანდატს.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
-          "id": 38,
-          "name": "Sonar Capabilities",
+          "id": 39,
+          "name": "ნეთვორქინგი და სოციალიზაცია",
           "description": null,
           "behaviours": [
             {
-              "id": 90,
-              "name": "Engaging Dialogs",
-              "description": "Engaging Dialogs measures how effectively the leader engages others in dialogue, listens carefully and reflect on what's is told, helping subordinates to accept questions and uncertainties, to learn what they do not know and motivating them to share their knowledge and ideas with end-users",
+              "id": 153,
+              "name": "სხვების წარმატების დაფასება",
+              "description": "სხვების წარმატების დაფასება - აფასებს, თუ   რამდენად იზიარებს და აღიარებს ლიდერი  სხვების წარმატებას, ესმის, რომ წარმატებისთვის საჭიროა თანამშრომლობა, ეფექტურად ინარჩუნებს კარგ ურთიერთობებს როგორც უშუალო დაქვემდებარებულებთან, ასევე მთლიანად კორპორაციასთან  და ავითარებს და ინარჩუნებს ურთიერთობებს კომპანიის გარეთ",
               "isLinkedOnMultipleCompetency": false
             },
             {
-              "id": 114,
-              "name": "Listening to Sensitive Issues",
-              "description": "Listening to Sensitive Issues measures the extent to which the leader is able to listen not only to what is being said but what is not being said, alert for topics that are avoided for hesitancy about addressing a particular problem",
+              "id": 154,
+              "name": "ბაზრის მიმოხილვა",
+              "description": "ბაზრის მიმოხილვა - აფასებს, თუ რამდენად ეფექტურად აწყობს ლიდერი  პრეზენტაციებს/ჩვენებებს მსოფლიო მასშტაბით კლიენტებთან/ ინვესტორებთან შეხვედრის მიზნით, ეკონტაქტება პოტენციურ კლიენტებს და აკვირდება ბაზარს მთლიანობაში.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
@@ -236,32 +222,32 @@
     },
     {
       "id": 4,
-      "name": "SELF-DEVELOPMENT",
+      "name": "თვითგანვითარება",
       "factorColor": "#36BC9B",
       "competencyColor": "#36BC9B",
       "competencies": [
         {
           "id": 11,
-          "name": "Mindfulness",
+          "name": "საკუთარი თავის შეცნობა",
           "description": null,
           "behaviours": [
             {
-              "id": 19,
-              "name": "Self-Awareness",
-              "description": "Self-Awareness measures the extent to which the leader recognizes the need to change personal, interpersonal, and managerial behavior; reflects on activities and impacts on others, proactively seeks feedback without being defensive, is open to criticism and talking about shortcomings, admits mistakes and gains insight from experiences, knows strengths, weaknesses, opportunities, and limits",
+              "id": 155,
+              "name": "თვითშემეცნება",
+              "description": "თვითშემეცნება - აფასებს, რამდენად აცნობიერებს ლიდერი პერსონალური, ინტერპერსონალური და მენეჯერული ქცევის ცვლილების საჭიროებას, იაზრებს მოვლენებს და სხვებზე მათ გავლენას, აქტიურად ეძებს უკუკავშირს წყენის გარეშე, ღიაა კრიტიკისა და ნაკლოვანებებზე საუბრისთვის, აღნიშნავს შეცდომებს  და იღებს მაქსიმალურს გამოცდილებიდან, იცნობს თავის ძლიერ და სუსტ მხარეებს, შესაძლებლობებს და შეზღუდვებს.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
         },
         {
-          "id": 43,
-          "name": "Shift in Mindset",
+          "id": 44,
+          "name": "მუდმივი სწავლა",
           "description": null,
           "behaviours": [
             {
-              "id": 88,
-              "name": "Commitment to Change",
-              "description": "Commitment to Change measures the extent to which the leader shows personal commitments and takes action to shift from knowing one business model to experiencing different business models, makes the most of available development resources, proactively investigates new perspectives and takes steps to move beyond the belief that the known model is the only model",
+              "id": 156,
+              "name": "განვითარებაზე ორიენტირება",
+              "description": "განვითარებაზე ორიენტირება - აფასებს, რამდენად მზად არის ლიდერი, მოისმინოს და ისწავლოს, გამოიკვლიოს და ღრმად გააანალიზოს პრობლემები და იდეები, გახსნილია განვითარების შესაძლებლობებისთვის, რის საშუალებასაც იძლევა საქმიანი ურთიერთობები (ნეთვორქი), ფორუმები, კითხვა, საუბრები აკადემიური სფეროს წარმომადგენლებთან და სხვა აღიარებულ ლიდერებთან.",
               "isLinkedOnMultipleCompetency": false
             }
           ]
@@ -270,6 +256,6 @@
     }
   ],
   "texts": {
-    "behaviourIsLinkedOnMultipleCompetencyText": "Behaviour is linke don multiple competency"
+    "behaviourIsLinkedOnMultipleCompetencyText": "ქცევა დაკავშირებულია რამდენიმე კომპეტენციასთან"
   }
 }
