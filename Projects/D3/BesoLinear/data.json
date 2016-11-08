@@ -1,6 +1,6 @@
 {
-  "min": 10,
-  "max": 150,
+  "min": -20,
+  "max": 180,
   "zones": [
     {
       "color": "#FFBB00",
