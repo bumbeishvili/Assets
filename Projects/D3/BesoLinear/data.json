@@ -3,14 +3,14 @@
   "max": 150,
   "zones": [
     {
-      "color": "yellow",
+      "color": "FFBB00",
       "range": [
         12,
         30
       ]
     },
     {
-      "color": "red",
+      "color": "#FB6542",
       "range": [
         30,
         150
