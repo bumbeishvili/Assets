@@ -1,1 +1,275 @@
-{"id":0,"name":"დამწყები მენეჯერი","description":"მოცემული საფეხურის მენეჯერი ხელმძღვანელობს არამენეჯერული პოზიციის რამოდენიმე თანამშრომელს (მას არ ჰყავს დაქვემდებარებაში მენეჯერები). მართავს ყველაზე მცირე სტრუქტურულ ერთეულს (სამსახურს ან ჯგუფს) დეპარტამენტის შიგნით.  ხელმძღვანელობა გულისხმობს დაქვემდებარებულთა ყოველდღიური საქმიანობის ზედამხედველობას: დავალებების მიცემას, შედეგების განხილვას და შესრულებული სამუშაოს ხარისხის შეფასებას.  აქვს პირდაპირი კონტაქტი თანამშრომლებთან. პასუხისმგებელია მოახდინოს პრობლემების და რეკომენდაციების მიწოდება შემდეგი რგოლის მენეჯმენტისთვის. დამწყები მენეჯერის საფეხურში ერთიანდება შემდეგი პოზიციები: <strong>განყოფილების/ჯგუფის უფროსი, სც მენეჯერი, სამსახურის უფროსი (სამსახურში რომელსაც არა აქვს ქვეგანყოფილებები)</strong>","currentLangKey":"GE","timeApplication":{"name":"დროის გადანაწილება","description":"<ul>\r\n\t<li>ბიუჯეტისა და პროექტების დაგეგმვა</li>\r\n \r\n\t<li>დროის გამოყოფა დაქვემდებარებულებისთვის, როგორც მათი, ისე საკუთარი საჭიროებისთვის</li>\r\n\r\n\t<li>დაქვემდებარებული ბიზნეს ერთეულის და გუნდის პრიორიტეტების განსაზღვრა</li>\r\n\r\n\t<li>დროის გამოყოფა კომუნიკაციისთვის სხვა ბიზნეს ერთეულების წარმომადგენლებთან, მომხმარებლებთან, მომწოდებლებთან </li>\r\n\r\n\t<li>თვითგანვითარება: ორიენტირება სწავლასა და თვითშემეცნებაზე</li>\r\n\r\n</ul>\r\n"},"workValues":{"name":"სამუშაო ღირებულებები","description":"<ul>\r\n\t<li>შედეგებზე ორიენტირება - შედეგების მიღწევა გუნდის წევრების დახმარებით</li>\r\n \r\n\t<li>დაქვემდებარებული ბიზნეს ერთეულისა და გუნდის  წარმატება</li>\r\n \r\n\t<li>გუნდის პასუხისმგებლობის უზრუნველყოფა - მენეჯერული საქმიანობა და დისციპლინა </li>\r\n\r\n\t<li>საკუთარი თავის მენეჯერად აღქმა</li>\r\n\r\n\t<li>სანდოობა - თანამიმდევრულობა, ნამდვილობა</li>\r\n\r\n</ul>"},"factors":[{"id":5,"name":"ლიდერობა","factorColor":"#5D9CEC","competencyColor":"#4B89DC","competencies":[{"id":12,"name":"გუნდის შექმნა","description":null,"behaviours":[{"id":28,"name":"ჯანსაღი გარემოს მხარდაჭერა","description":"ჯანსაღი გარემოს მხარდაჭერა - აფასებს, რამდენად ადვილი და ხელმისაწვდომია ლიდერთან დაკავშირება, ღია და მეგობრულია მისი კომუნიკაცია, რამდენად წაახალისებს განსხვავებული აზრების და შეხედულებების ღიად გამოთქმას, ხელს უწყობს ინოვაციებს, უზრუნველყოფს ჯანსაღი გარემოს ჩამოყალიბებას.","isLinkedOnMultipleCompetency":false},{"id":25,"name":"ქოუჩინგი და უკუკავშირი","description":"ქოუჩინგი და უკუკავშირი - აფასებს, რამდენად უზრუნველყოფს ლიდერი მყისიერ კონსტრუქციულ უკუკავშირს, უწევს მენტორობას   და ავითარებს გუნდის წევრებს ქოუჩინგით და კომპლექსური დავალებებით.","isLinkedOnMultipleCompetency":false},{"id":26,"name":"დაჯილდოება და მოტივაცია","description":"დაჯილდოება და მოტივაცია - აფასებს, რამდენად ქმნის ლიდერი გუნდისადმი კუთვნილების და გუნდური  სულისკვეთების ატმოსფეროს,  აღიარებს  თითოეული წევრის წვლილს, უზიარებს წარმატებას და სათანადოდ აფასებს გუნდის ძალისხმევას.","isLinkedOnMultipleCompetency":false},{"id":27,"name":"გუნდის პასუხისმგებლობის უზრუნველყოფა","description":"გუნდის პასუხისმგებლობის უზრუნველყოფა - აფასებს, რამდენად იღებს ლიდერი პირად პასუხისმგებლობას გადაწყვეტილებებზე, მოქმედებებზე და წარუმატებლობაზე, და მაგალითს აძლევს გუნდის წევრებს იმოქმედონ იგივე პასუხისმგებლობით.","isLinkedOnMultipleCompetency":false}]},{"id":13,"name":"სანდოობა","description":null,"behaviours":[{"id":43,"name":"თანმიმდევრულობა","description":"თანმიმდევრულობა - აფასებს, რამდენად შეესაბამება ლიდერის სიტყვები და ქმედებები ერთმანეთს, რამდენად ასრულებს იგი დანაპირებს","isLinkedOnMultipleCompetency":true},{"id":42,"name":"ნამდვილობა","description":"ნამდვილობა - აფასებს, რამდენად გულწრფელი და გულახდილია ლიდერი, ერთგულია საკუთარი პრინციპების, უზიარებს სხვებს თავის ჭეშმარიტ ფიქრებს, აზრებს და შეხედულებებს, ქმნის ურთიერთნდობის ატმოსფეროს.","isLinkedOnMultipleCompetency":true}]},{"id":14,"name":"გამბედაობა","description":null,"behaviours":[{"id":29,"name":"შედეგებისკენ სწრაფვა","description":"შედეგებისკენ სწრაფვა - აფასებს, რამდენად მზადაა ლიდერი, გაუმკლავდეს რთულ დავალებებს, საკუთარ თავზე აიღოს რთული საკითხები, დაიცვას საკუთარი პოზიცია/იდეა და მოიპოვოს გამარჯვება შესაძლო რისკების მიუხედავად.","isLinkedOnMultipleCompetency":true},{"id":30,"name":"თავდაჯერებულობა","description":"თავდაჯერებულობა - აფასებს, რამდენად თავდაჯერებულია ლიდერი,  რომ აღიაროს საკუთარი ცოდნის ნაკლებობა, თქვას „მე ეს არ ვიცი“ და აიღოს პასუხისმგებლობა, რომ დროულად მოიძიოს სათანადო ინფორმაცია და მიიღოს გადაწყვეტილება.","isLinkedOnMultipleCompetency":true}]}]},{"id":6,"name":"მენეჯმენტი","factorColor":"#EC87BF","competencyColor":"#D870AD","competencies":[{"id":27,"name":"შესრულება","description":null,"behaviours":[{"id":33,"name":"რესურსების ათვისება","description":"რესურსების ათვისება - აფასებს, რამდენად ეფექტურად ახდენს ლიდერი რესურსების მობილიზებას (თანამშრომლები, ფინანსები, მასალები, სხვა მხარდაჭერა), მიზნის მისაღწევად ერთდროულად მართავს სხვადასხვა აქტივობას, შეზღუდული რესურსებით იღებს მაქსიმალურ შედეგს, რესურსების უზრუნველსაყოფად იყენებს/ითვალისწინებს შიდა სტრუქტურების, პროცესების და კულტურის ცოდნას.","isLinkedOnMultipleCompetency":false},{"id":34,"name":"დაგეგმვა","description":"დაგეგმვა - აფასებს, რამდენად ეფექტურად უზრუნველყოფს ლიდერი პროექტების და რესურსების სათანადოდ დაგეგმვას (თანამშრომლები, ბიუჯეტი) და განსაზღვრული ვადების დაცვას.","isLinkedOnMultipleCompetency":false},{"id":35,"name":"სამუშაოს დიზაინი","description":"სამუშაოს დიზაინი - აფასებს, რამდენად ეფექტურად განსაზღვრავს ლიდერი ბიზნესგარემოს განვითარებით გამოწვეული ცვლილების საჭიროებას/ბიზნესის ოპტიმიზაციის შესაძლებლობას და, შეიმუშავებს შესაბამის ორგანიზაციულ სტრუქტურას და თანამდებობრივ ინსტრუქციებს და პროცესებს.","isLinkedOnMultipleCompetency":false},{"id":36,"name":"შედეგებზე ორიენტირება","description":"შედეგებზე ორიენტირება  - ლიდერი ენერგიულად, შემართებით აკეთებს საქმეს და მიისწრაფის მისი დასრულებისკენ, მიუხედავად წინააღმდეგობისა თუ შეფერხებებისა შუა გზაზე არ მიატოვებს დაწყებულ საქმეს, მიზანმიმართულად წარმართავს საკუთარ თავს და სხვებს დასახული მიზნის მიღწევისკენ.","isLinkedOnMultipleCompetency":false}]},{"id":28,"name":"თანამშრომლის შესრულების უზრუნველყოფა","description":null,"behaviours":[{"id":31,"name":"მიზნების განსაზღვრა","description":"მიზნების განსაზღვრა - აფასებს, რამდენად უსახავს  ლიდერი თანამშრომლებს ცხად მიზნებს,  განსაზღვრავს და აცნობს  მათ შესრულების შეფასების კრიტერიუმებს (KPI), რომლებიც კონკრეტული და გაზომვადია.","isLinkedOnMultipleCompetency":false},{"id":32,"name":"მონიტორინგი და შეფასება","description":"მონიტორინგი და შეფასება - აფასებს, რამდენად ახდენს ლიდერი პროგრესის მონიტორინგს, სამუშაო პროცესში დიალოგისა და შედეგების შეფასებით (წინასწარ განსაზღვრული კრიტერიუმების (KPI) მიხედვით),  უზრუნველყოფს მითითებების და მიმართულებების მიცემას, ითვალისწინებს გუნდის წევრების უნარებს","isLinkedOnMultipleCompetency":false}]},{"id":29,"name":"ადამიანების მართვა","description":null,"behaviours":[{"id":39,"name":"თანამშრომლების შერჩევა","description":"თანამშრომლების შერჩევა - აფასებს, რამდენად შეუძლია ლიდერს ადამიანების მართებულად შეფასება, სწორი კანდიდატების მოძებნა ბიზნესის საჭიროებების დასაკმაყოფილებლად, აქვს გასაუბრების წარმართვის კარგი უნარები, განსაკუთრებულად აფასებს რა შიდა კანდიდატებს, ინარჩუნებს სწორ ბალანსს მათსა და გარე კანდიდატებს შორის.","isLinkedOnMultipleCompetency":false},{"id":40,"name":"დელეგირება","description":"დელეგირება - აფასებს, რამდენად ეფექტურად ახდენს ლიდერი გადაწყვეტილების მიღებისა და თანამდებობრივი მოვალეობების სხვებისთვის დელეგირებას, ორგანიზაციული და პირადი ეფექტიანობის გაზრდის მიზნით.","isLinkedOnMultipleCompetency":false}]}]},{"id":7,"name":"ურთიერთობები","factorColor":"#FFCE55","competencyColor":"#F6BB43","competencies":[{"id":35,"name":"ურთიერთობების აგება","description":null,"behaviours":[{"id":41,"name":"კავშირების გაფართოვება","description":"კავშირების გაფართოვება - აფასებს, რამდენად ეფექტურად ამყარებს ლიდერი მრავალმხრივ ურთიერთობას თავის მენეჯერთან, უშუალო დაქვემდებარებულებთან, კოლეგებთან, მომწოდებლებთან, კლიენტებთან, იდეების, რესურსების და „ნოუ-ჰაუს“ გაცვლის მიზნით, ბიზნეს ერთეულის და მთლიანად კომპანიის სასიკეთოდ.","isLinkedOnMultipleCompetency":false}]}]},{"id":4,"name":"თვითგანვითარება","factorColor":"#36BC9B","competencyColor":"#36BC9B","competencies":[{"id":11,"name":"საკუთარი თავის შეცნობა","description":null,"behaviours":[{"id":37,"name":"თვითშემეცნება","description":"თვითშემეცნება - აფასებს, რამდენად აცნობიერებს ლიდერი პერსონალური, ინტერპერსონალური და მენეჯერული ქცევის ცვლილების საჭიროებას, იაზრებს მოვლენებს და სხვებზე მათ გავლენას, აქტიურად ეძებს უკუკავშირს წყენის გარეშე, ღიაა კრიტიკისა და ნაკლოვანებებზე საუბრისთვის, აღნიშნავს შეცდომებს  და იღებს მაქსიმალურს გამოცდილებიდან, იცნობს თავის ძლიერ და სუსტ მხარეებს, შესაძლებლობებს და შეზღუდვებს.","isLinkedOnMultipleCompetency":true},{"id":38,"name":"სწავლაზე ორიენტირება","description":"სწავლაზე ორიენტირება - აფასებს, რამდენად იძიებს ლიდერი მუდმივი განვითარების/გაუმჯობესების მიზნით, ახლის შესწავლის შესაძლებლობებს პიროვნული და პროფესიული ქსელით, ფორუმებით, სიახლეების კითხვით, საუბრებით სხვა აღიარებულ ლიდერებთან, იღებს დავალებებს, რომლებიც აფართოვებს უნარებს და შესაძლებლობებს, მაქსიმალურად იყენებს სხვა განვითარების რესურსებს. ","isLinkedOnMultipleCompetency":false}]}]}],"texts":{"behaviourIsLinkedOnMultipleCompetencyText":"* აღნიშნული ქცევა საერთოა ყველა ლიდერშიპ მოდელისათვის"}}
+{
+"id": 0,
+"name": "Business Manager",
+"description": "This level represents <strong>Deputy CEO</strong>s, members of Directorate. Employees in this category are responsible for defining business strategy for the company and/or subordinate business directions and contributing to the organization through their vision",
+"currentLangKey": "EN",
+"timeApplication": {
+"name": "Time Application",
+"description": "<ul>\r\n\t<li>Share and acknowledge success of others </li>\r\n\r\n\t<li>Help people and businesses succeed </li>\r\n\r\n\t<li>Put in a tremendous amount of time thinking, learning, and strategizing, do the exploration, research and analysis necessary to grasp given business</li>\r\n\r\n</ul>"
+},
+"workValues": {
+"name": "Work Values",
+"description": "<ul>\r\n\t<li>Share and acknowledge success of others </li>\r\n\r\n\t<li>Leadership Development  - a growth engine for the company  </li>\r\n\r\n\t<li>Be Socratic in supervisory style, fair-mindedness </li>\r\n\r\n\t<li>Corporate citizenship, value corporation's needs - making an effort to understand and respond to them </li>\r\n\r\n\t<li>Business acumen, broad and objective perspectives </li>\r\n\r\n\t<li>Personal credibility </li>\r\n\r\n\t<li>Deep Thinking and Risk Taking</li>\r\n\r\n</ul>"
+},
+"factors": [
+{
+"id": 5,
+"name": "LEADERSHIP",
+"factorColor": "#5D9CEC",
+"competencyColor": "#4B89DC",
+"competencies": [
+{
+"id": 24,
+"name": "Sense of ownership",
+"description": null,
+"behaviours": [
+{
+"id": 87,
+"name": "Lead Multiple Businesses",
+"description": "Lead Multiple Businesses measures the extent to which the leader acts with a clear sense of ownership, behaves as sole owner of the businesses, and leads multiple, diverse businesses",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 13,
+"name": "Visible Integrity",
+"description": null,
+"behaviours": [
+{
+"id": 101,
+"name": "Consistency",
+"description": "Consistency measures the extent to which the leader shows consistency between words and actions, delivers what is promised",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 100,
+"name": "Authenticity",
+"description": "Authenticity measures how sincere and genuine is the leader, is true to him/herself, shares his/her real thoughts, beliefs and opinions, fosters an environment of mutual trust",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 45,
+"name": "Custodian of Culture",
+"description": null,
+"behaviours": [
+{
+"id": 113,
+"name": "Treasure Organizational Beliefs",
+"description": "Treasure Organizational Beliefs measures the extent to which the leader values culture and organizational beliefs, assigns high priority to this responsibility, eagerly spends time, emotional energy on assessing or reshaping their business cultures or defining what it is their units stand for",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 19,
+"name": "Strategic Mindset",
+"description": null,
+"behaviours": [
+{
+"id": 95,
+"name": "Strategic Thinking",
+"description": "Strategic Thinking measures the extent to which the leader assesses and planes for the uncovered part of the business, projecting where innovation might occur, and who the new players might be, is sophisticated about financial analysis, determines which products have the most growth potential,  and starts new business or extends existing ones in order to develop a new niche",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 16,
+"name": "Develop Leaders",
+"description": null,
+"behaviours": [
+{
+"id": 46,
+"name": "Give Decision Power",
+"description": "Give Decision Power measures how effectively the leader develops direct reports through exposure, and stretch assignments, empowers to make decisions",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 47,
+"name": "Drive Corporate Accountability",
+"description": "Drive Corporate Accountability measures how effectively the leader communicates the direct reports, that \"everything counts\", that they are responsible for more than solid financial performance: making connections between diverse elements of functions including customers and suppliers, pulling functions together helping them work toward an ambitious goal",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 48,
+"name": "Coach strategists",
+"description": "Coach strategists measures how effectively the leader coaches direct reports on dealing with business strategy, provides great freedom to run functions within the strategic framework he/she developed allowing direct report to forge their own strategies",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 49,
+"name": "Talent Judgment",
+"description": "Talent Judgment measures how effectively the leader defines job and candidate specifications, identifies the right person for the right job, selects managers who can handle next level positions",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 22,
+"name": "Handle visibility",
+"description": null,
+"behaviours": [
+{
+"id": 59,
+"name": "Pretest ideas",
+"description": "Pretest ideas measures how successfully the leader handles the spotlight by pretesting ideas, decisions and proposals with trusted associates, determines how externals assess a move and counts it in decision-making process, is open and flexible when his/her positions are questioned in public, not placed in the position of becoming locked in",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 25,
+"name": "Corporate Citizenship",
+"description": null,
+"behaviours": [
+{
+"id": 32,
+"name": "Value Corporation",
+"description": "Value Corporation measures the extent to which the leader values company's needs, makes efforts to understand and respond to them - gains insight, identifies opportunities that benefit the organization, builds and delivers solutions that meet corporate needs",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 14,
+"name": "Courage",
+"description": null,
+"behaviours": [
+{
+"id": 106,
+"name": "Appetite for Accomplishment",
+"description": "Appetite for Accomplishment measures how readily the leader  tackles tough assignments, faces difficult issues, is willing to champion an idea or position despite dissent risk",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 6,
+"name": "Self-Confidence",
+"description": "Self-Confidence measures the extent to which the leader is self-confident conceding own lack of knowledge, says \"I don't know\", when uncertain about answers or decisions, and then makes a commitment to find the answers by a certain date",
+"isLinkedOnMultipleCompetency": false
+}
+]
+}
+]
+},
+{
+"id": 6,
+"name": "MANAGEMENT",
+"factorColor": "#EC87BF",
+"competencyColor": "#D870AD",
+"competencies": [
+{
+"id": 33,
+"name": "Corporate Governance",
+"description": null,
+"behaviours": [
+{
+"id": 33,
+"name": "Ensure Compliance",
+"description": "Ensure Compliance measures the extent to which the leader monitors compliance with corporate standards, policies and values, makes sure subordinate directions and functions obey the law and maintain or enhance the brand while pursuing profit",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 27,
+"name": "Execution",
+"description": null,
+"behaviours": [
+{
+"id": 27,
+"name": "Pursue Corporate Goals",
+"description": "Pursue Corporate Goals measures the extent to which the leader executes and monitors if direct reports (direction and functional managers) are plugged into corporate goals and strategies, requires externally driven (customer centric) goals",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 28,
+"name": "Support Performance",
+"description": "Support Performance measures how effectively the leader access direct reports, their teams, cultures, judging their strategic skills and influence to approve projects, demands performance, and paying attention to performance recognizes when a direct report is having problems",
+"isLinkedOnMultipleCompetency": false
+}
+]
+}
+]
+},
+{
+"id": 7,
+"name": "RELATIONSHIPS",
+"factorColor": "#FFCE55",
+"competencyColor": "#F6BB43",
+"competencies": [
+{
+"id": 39,
+"name": "Networking and Socializing",
+"description": null,
+"behaviours": [
+{
+"id": 52,
+"name": "Value success of others",
+"description": "Value success of others measures how effectively the leader shares and acknowledges success of others, recognizing that success needs cooperation and maintains constructive relationships both with direct reports and the corporation, and builds and maintains external relationships.",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 38,
+"name": "Sonar Capabilities",
+"description": null,
+"behaviours": [
+{
+"id": 90,
+"name": "Engaging Dialogs",
+"description": "Engaging Dialogs measures how effectively the leader engages others in dialogue, listens carefully and reflect on what's is told, helping subordinates to accept questions and uncertainties, to learn what they do not know and motivating them to share their knowledge and ideas with end-users",
+"isLinkedOnMultipleCompetency": false
+},
+{
+"id": 114,
+"name": "Listening to Sensitive Issues",
+"description": "Listening to Sensitive Issues measures the extent to which the leader is able to listen not only to what is being said but what is not being said, alert for topics that are avoided for hesitancy about addressing a particular problem",
+"isLinkedOnMultipleCompetency": false
+}
+]
+}
+]
+},
+{
+"id": 4,
+"name": "SELF-DEVELOPMENT",
+"factorColor": "#36BC9B",
+"competencyColor": "#36BC9B",
+"competencies": [
+{
+"id": 11,
+"name": "Mindfulness",
+"description": null,
+"behaviours": [
+{
+"id": 19,
+"name": "Self-Awareness",
+"description": "Self-Awareness measures the extent to which the leader recognizes the need to change personal, interpersonal, and managerial behavior; reflects on activities and impacts on others, proactively seeks feedback without being defensive, is open to criticism and talking about shortcomings, admits mistakes and gains insight from experiences, knows strengths, weaknesses, opportunities, and limits",
+"isLinkedOnMultipleCompetency": false
+}
+]
+},
+{
+"id": 43,
+"name": "Shift in Mindset",
+"description": null,
+"behaviours": [
+{
+"id": 88,
+"name": "Commitment to Change",
+"description": "Commitment to Change measures the extent to which the leader shows personal commitments and takes action to shift from knowing one business model to experiencing different business models, makes the most of available development resources, proactively investigates new perspectives and takes steps to move beyond the belief that the known model is the only model",
+"isLinkedOnMultipleCompetency": false
+}
+]
+}
+]
+}
+],
+"texts": {
+"behaviourIsLinkedOnMultipleCompetencyText": "Behaviour is linke don multiple competency"
+}
+}
