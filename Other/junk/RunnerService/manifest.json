@@ -1,7 +1,7 @@
 {
   "manifestVersion": "1.2",
   "location": "vabank.bog.ge/plugin/files/",
-   "main": "test.jar"
+   "main": "test.jar",
   "files": [
     {
       "file": "test.jar",
