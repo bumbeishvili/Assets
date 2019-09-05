@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.23047 96.36035">
+  <defs>
+    <style>
+      @import url('/wp-content/themes/justiceauditsomalia/assets/fonts/proxima-nova/somalia.css');
+
+      .cls-1, .cls-13, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #4d4d4d;
+        stroke-width: 0.25px;
+      }
+
+      .cls-1, .cls-13, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 1.5px;
+      }
+
+      .cls-10, .cls-2, .cls-3 {
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-10, .cls-3 {
+        font-size: 4px;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.03101em;
+      }
+
+      .cls-5 {
+        stroke: #dfbb24;
+      }
+
+      .cls-13, .cls-5 {
+        stroke-linecap: round;
+        stroke-width: 0.75px;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01953em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.00065em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.02604em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.06315em;
+      }
+
+      .cls-10, .cls-14 {
+        letter-spacing: -0.026em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0.00012em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.03088em;
+      }
+
+      .cls-13 {
+        stroke: #508694;
+      }
+
+      .cls-15 {
+        font-size: 10px;
+        fill: #231f20;
+        font-family: ProximaNova-Bold, Proxima Nova;
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.00703em;
+      }
+
+      .cls-17, .cls-22, .cls-26 {
+        font-family: ProximaNova-Light, Proxima Nova;
+        font-weight: 300;
+      }
+
+      .cls-17 {
+        fill: #000;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.01201em;
+      }
+
+      .cls-19 {
+        letter-spacing: 13.23613em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.09902em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.06895em;
+      }
+
+      .cls-23 {
+        letter-spacing: 11.2502em;
+      }
+
+      .cls-24 {
+        font-family: ProximaNova-Semibold, Proxima Nova;
+        font-weight: 600;
+      }
+
+      .cls-25 {
+        letter-spacing: 1.74102em;
+      }
+
+      .cls-26 {
+        fill: #9f3137;
+      }
+
+      .cls-27 {
+        letter-spacing: 11.17119em;
+      }
+
+      .cls-28 {
+        letter-spacing: 10.92119em;
+      }
+
+      .cls-29 {
+        letter-spacing: 12.05625em;
+      }
+
+      .cls-30 {
+        letter-spacing: -0.03613em;
+      }
+    </style>
+  </defs>
+  <title>int-disp-dt-4-txt</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="graphs_out_only_tiny" data-name="graphs out only tiny">
+      <g>
+        <line class="cls-1" x1="98.24914" y1="78.20034" x2="171.4803" y2="78.20034"/>
+        <g>
+          <g>
+            <text class="cls-2" transform="translate(96.18701 78.73438)">0</text>
+            <text class="cls-2" transform="translate(92.92432 76.2041)">10000</text>
+            <text class="cls-2" transform="translate(92.55078 73.6748)">20000</text>
+            <text class="cls-2" transform="translate(92.59766 71.14453)">30000</text>
+            <text class="cls-2" transform="translate(92.59619 68.61426)">40000</text>
+            <text class="cls-2" transform="translate(92.54785 66.08496)">50000</text>
+            <text class="cls-3" transform="translate(84.15283 63.55469)">6<tspan class="cls-4" x="2.36377" y="0">0</tspan><tspan x="4.68799" y="0">,000</tspan></text>
+          </g>
+          <line class="cls-1" x1="98.24914" y1="78.20034" x2="98.24914" y2="63.02112"/>
+        </g>
+        <g>
+          <line class="cls-5" x1="104.90651" y1="78.12445" x2="98.24914" y2="78.09915"/>
+          <line class="cls-5" x1="111.56389" y1="76.42944" x2="104.90651" y2="78.12445"/>
+          <line class="cls-5" x1="118.22127" y1="76.17645" x2="111.56389" y2="76.42944"/>
+          <line class="cls-5" x1="124.87865" y1="77.69437" x2="118.22127" y2="76.17645"/>
+          <line class="cls-5" x1="131.53603" y1="77.69437" x2="124.87865" y2="77.69437"/>
+          <line class="cls-5" x1="138.19341" y1="77.97266" x2="131.53603" y2="77.69437"/>
+          <line class="cls-5" x1="144.85079" y1="78.14975" x2="138.19341" y2="77.97266"/>
+          <line class="cls-5" x1="151.50817" y1="78.17505" x2="144.85079" y2="78.14975"/>
+          <line class="cls-5" x1="158.16555" y1="74.91151" x2="151.50817" y2="78.17505"/>
+          <line class="cls-5" x1="164.82292" y1="78.12445" x2="158.16555" y2="74.91151"/>
+          <line class="cls-5" x1="171.4803" y1="78.09915" x2="164.82292" y2="78.12445"/>
+        </g>
+        <g>
+          <text class="cls-3" transform="translate(164.53906 82.10449)">DEC</text>
+          <text class="cls-2" transform="translate(160.74316 80.10449)">N<tspan class="cls-6" x="1.06152" y="0">O</tspan><tspan class="cls-7" x="2.17969" y="0">V</tspan></text>
+          <text class="cls-2" transform="translate(154.71582 80.10449)">OCT</text>
+          <text class="cls-2" transform="translate(148.81445 80.10449)">SEP</text>
+          <text class="cls-2" transform="translate(142.48438 80.10449)"><tspan class="cls-8">A</tspan><tspan x="0.94824" y="0">UG</tspan></text>
+          <text class="cls-2" transform="translate(136.65234 80.10449)">JUL</text>
+          <text class="cls-2" transform="translate(130.40137 80.10449)">JUN</text>
+          <text class="cls-2" transform="translate(124.18848 80.10449)">M<tspan class="cls-9" x="1.21387" y="0">A</tspan><tspan class="cls-7" x="2.10645" y="0">Y</tspan></text>
+          <text class="cls-2" transform="translate(118.21875 80.10449)">APR</text>
+          <text class="cls-2" transform="translate(111.94971 80.10449)">MAR</text>
+          <text class="cls-2" transform="translate(106.09229 80.10449)">FEB</text>
+          <text class="cls-10" transform="translate(97.67041 82.10449)">J<tspan class="cls-11" x="1.7959" y="0">AN</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="graphs_in_only_tiny" data-name="graphs in only tiny">
+      <g>
+        <line class="cls-1" x1="98.34914" y1="41.80034" x2="171.5803" y2="41.80034"/>
+        <g>
+          <g>
+            <text class="cls-2" transform="translate(96.28711 42.33398)">0</text>
+            <text class="cls-2" transform="translate(93.02441 39.80371)">10000</text>
+            <text class="cls-2" transform="translate(92.65088 37.27441)">20000</text>
+            <text class="cls-2" transform="translate(92.69775 34.74414)">30000</text>
+            <text class="cls-2" transform="translate(92.69629 32.21387)">40000</text>
+            <text class="cls-2" transform="translate(92.64795 29.68457)">50000</text>
+            <text class="cls-3" transform="translate(84.25293 27.1543)">6<tspan class="cls-12" x="2.36377" y="0">0</tspan><tspan x="4.68799" y="0">,000</tspan></text>
+          </g>
+          <line class="cls-1" x1="98.34914" y1="41.80034" x2="98.34914" y2="26.62112"/>
+        </g>
+        <g>
+          <line class="cls-13" x1="105.00651" y1="38.25853" x2="98.34914" y2="37.49957"/>
+          <line class="cls-13" x1="111.66389" y1="28.89801" x2="105.00651" y2="38.25853"/>
+          <line class="cls-13" x1="118.32127" y1="36.99359" x2="111.66389" y2="28.89801"/>
+          <line class="cls-13" x1="124.97865" y1="38.51151" x2="118.32127" y2="36.99359"/>
+          <line class="cls-13" x1="131.63603" y1="40.53541" x2="124.97865" y2="38.51151"/>
+          <line class="cls-13" x1="138.29341" y1="40.28242" x2="131.63603" y2="40.53541"/>
+          <line class="cls-13" x1="144.95079" y1="33.70476" x2="138.29341" y2="40.28242"/>
+          <line class="cls-13" x1="151.60817" y1="32.18684" x2="144.95079" y2="33.70476"/>
+          <line class="cls-13" x1="158.26555" y1="35.47567" x2="151.60817" y2="32.18684"/>
+          <line class="cls-13" x1="164.92292" y1="40.7884" x2="158.26555" y2="35.47567"/>
+          <line class="cls-13" x1="171.5803" y1="41.29437" x2="164.92292" y2="40.7884"/>
+        </g>
+        <g>
+          <text class="cls-3" transform="translate(164.63965 45.70508)">DEC</text>
+          <text class="cls-2" transform="translate(160.84375 43.70508)">N<tspan class="cls-6" x="1.06152" y="0">O</tspan><tspan class="cls-7" x="2.17969" y="0">V</tspan></text>
+          <text class="cls-2" transform="translate(154.81543 43.70508)">OCT</text>
+          <text class="cls-2" transform="translate(148.91504 43.70508)">SEP</text>
+          <text class="cls-2" transform="translate(142.58398 43.70508)"><tspan class="cls-8">A</tspan><tspan x="0.94824" y="0">UG</tspan></text>
+          <text class="cls-2" transform="translate(136.75293 43.70508)">JUL</text>
+          <text class="cls-2" transform="translate(130.50098 43.70508)">JUN</text>
+          <text class="cls-2" transform="translate(124.28809 43.70508)">M<tspan class="cls-9" x="1.21387" y="0">A</tspan><tspan class="cls-7" x="2.10645" y="0">Y</tspan></text>
+          <text class="cls-2" transform="translate(118.31836 43.70508)">APR</text>
+          <text class="cls-2" transform="translate(112.04932 43.70508)">MAR</text>
+          <text class="cls-2" transform="translate(106.19189 43.70508)">FEB</text>
+          <text class="cls-3" transform="translate(97.77051 45.70508)"><tspan class="cls-14">J</tspan><tspan x="1.7959" y="0">AN</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="table_copy" data-name="table copy">
+      <text class="cls-15" transform="translate(0 8.33032)">MO<tspan class="cls-16" x="16.2002" y="0">G</tspan><tspan x="23.33008" y="0">ADISHU</tspan><tspan class="cls-17"><tspan class="cls-18" x="0" y="17">P</tspan><tspan x="5.58984" y="17">opulation</tspan><tspan class="cls-19" x="45.75" y="17">	</tspan><tspan x="180.70117" y="17">2,58</tspan><tspan class="cls-20" x="200.24121" y="17">7</tspan><tspan class="cls-21" x="204.27051" y="17">,</tspan><tspan x="205.77148" y="17">183</tspan></tspan><tspan class="cls-22"><tspan class="cls-18" x="0" y="34">P</tspan><tspan x="5.58984" y="34">eople Arriving</tspan><tspan class="cls-23" x="66.06836" y="34">	</tspan><tspan class="cls-24" x="181.16016" y="34">226,000</tspan><tspan class="cls-25" x="220.00098" y="34">	</tspan><tspan x="240.00098" y="34">(9% of pop)</tspan></tspan><tspan class="cls-26"><tspan x="0" y="51" xml:space="preserve">  Conflict-related</tspan><tspan class="cls-27" x="70.93848" y="51">	</tspan><tspan x="185.24023" y="51">146,000</tspan><tspan class="cls-25" x="220" y="51">	</tspan><tspan x="240" y="51">(65%)</tspan></tspan><tspan class="cls-22"><tspan class="cls-18" x="0" y="68">P</tspan><tspan x="5.58984" y="68">eople Departing</tspan><tspan class="cls-28" x="75.72949" y="68">	</tspan><tspan class="cls-24" x="187.53125" y="68">34,000</tspan><tspan class="cls-25" x="220.00195" y="68">	</tspan><tspan x="240.00195" y="68">(1% of pop)</tspan></tspan><tspan class="cls-26"><tspan x="0" y="85" xml:space="preserve">  Conflict-related</tspan><tspan class="cls-29" x="70.93848" y="85">	</tspan><tspan class="cls-30" x="194.09082" y="85">9</tspan><tspan x="199.56934" y="85">,000</tspan><tspan class="cls-25" x="219.99902" y="85">	</tspan><tspan x="239.99902" y="85">(26%)</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
