@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242.41406 95.18896">
+  <defs>
+    <style>
+      @import url('/wp-content/themes/justiceauditsomalia/assets/fonts/proxima-nova/somalia.css');
+    
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 10px;
+      }
+
+      .cls-2 {
+        font-family: ProximaNova-Medium, Proxima Nova;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.03594em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.0001em;
+      }
+
+      .cls-5 {
+        font-family: ProximaNova-Light, Proxima Nova;
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.05703em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.079em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.0001em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01006em;
+      }
+
+      .cls-10 {
+        fill: #ccb683;
+      }
+
+      .cls-11 {
+        fill: #9f3137;
+      }
+
+      .cls-12 {
+        fill: #508694;
+      }
+
+      .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-14 {
+        mix-blend-mode: darken;
+      }
+
+      .cls-15 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 0.275px;
+      }
+
+      .cls-16 {
+        fill: #231f20;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.06602em;
+      }
+    </style>
+  </defs>
+  <title>displacement-legend-txt</title>
+  <g class="cls-1">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="legend">
+        <text class="cls-2" transform="translate(136.45105 8.33008)">DISPL<tspan class="cls-3" x="26.53906" y="0">A</tspan><tspan class="cls-4" x="32.83984" y="0">CED PEOPLE</tspan></text>
+        <text class="cls-5" transform="translate(129.29773 25.80176)">ARRI<tspan class="cls-6" x="20.58008" y="0">V</tspan><tspan x="26.47949" y="0">ALS</tspan></text>
+        <text class="cls-5" transform="translate(54.05078 58.19592)">Conflict-related</text>
+        <text class="cls-5" transform="translate(182.73425 25.80176)">DE<tspan class="cls-7" x="12.55957" y="0">P</tspan><tspan class="cls-8" x="17.47949" y="0">A</tspan><tspan class="cls-9" x="23.9502" y="0">R</tspan><tspan x="29.79004" y="0">TURES</tspan></text>
+        <path class="cls-10" d="M183.09747,49.54009V33.27593a16.26417,16.26417,0,1,1-16.26416,16.26416,16.26417,16.26417,0,0,1,16.26416-16.26416h0Z"/>
+        <g>
+          <path class="cls-11" d="M143.618,49.54009a8.85771,8.85771,0,1,0,17.42852-2.20033H143.90478A8.8411,8.8411,0,0,0,143.618,49.54009Z"/>
+          <path class="cls-12" d="M152.47567,40.68245a8.853,8.853,0,0,0-8.57089,6.65731h17.14177A8.85309,8.85309,0,0,0,152.47567,40.68245Z"/>
+        </g>
+        <g>
+          <path class="cls-11" d="M211.19282,55.87114A6.32561,6.32561,0,0,0,216.833,52.406H205.55263A6.32563,6.32563,0,0,0,211.19282,55.87114Z"/>
+          <path class="cls-12" d="M211.19282,43.20905a6.3228,6.3228,0,0,0-5.64019,9.19692H216.833a6.3228,6.3228,0,0,0-5.64018-9.19692Z"/>
+        </g>
+        <path class="cls-13" d="M183.09766,33.27605A16.26416,16.26416,0,1,1,166.8335,49.54021a16.264,16.264,0,0,1,16.26416-16.26416m0-2a18.26416,18.26416,0,1,0,18.26416,18.26416,18.28482,18.28482,0,0,0-18.26416-18.26416Z"/>
+        <path class="cls-13" d="M152.47559,40.6823a8.89814,8.89814,0,1,1-8.57087,6.65747,8.85382,8.85382,0,0,1,8.57087-6.65747m0-2a10.89787,10.89787,0,1,0,10.509,8.16212,10.84546,10.84546,0,0,0-10.509-8.16212Z"/>
+        <path class="cls-13" d="M211.19287,43.20915a6.32282,6.32282,0,1,1-6.33105,6.33106,6.331,6.331,0,0,1,6.33105-6.33106m0-2a8.34049,8.34049,0,0,0-8.33105,8.33106,8.33106,8.33106,0,0,0,16.66211,0,8.3405,8.3405,0,0,0-8.33106-8.33106Z"/>
+        <g class="cls-14">
+          <g>
+            <line class="cls-15" x1="123.06587" y1="55.84295" x2="152.47456" y2="55.84295"/>
+            <path class="cls-16" d="M152.47456,56.87688a1.03394,1.03394,0,1,0-1.03369-1.03393A1.034,1.034,0,0,0,152.47456,56.87688Z"/>
+          </g>
+        </g>
+        <g class="cls-14">
+          <g>
+            <line class="cls-15" x1="183.09761" y1="58.39764" x2="183.09761" y2="79.45745"/>
+            <path class="cls-16" d="M182.06343,58.39764a1.03394,1.03394,0,1,1,1.03418,1.03393A1.03412,1.03412,0,0,1,182.06343,58.39764Z"/>
+          </g>
+        </g>
+        <text class="cls-2" transform="translate(153.67969 91.7887)">POPUL<tspan class="cls-17" x="31.81934" y="0">A</tspan><tspan x="37.81934" y="0">TION</tspan></text>
+        <text class="cls-5" transform="translate(0 45.78577)">Environmental Crisis-related</text>
+        <g class="cls-14">
+          <g>
+            <line class="cls-15" x1="123.06587" y1="43.43304" x2="152.47456" y2="43.43304"/>
+            <path class="cls-16" d="M152.47456,44.467a1.03394,1.03394,0,1,0-1.03369-1.03393A1.034,1.034,0,0,0,152.47456,44.467Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
